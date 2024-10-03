@@ -1,0 +1,11 @@
+.suspended-row {
+    filter: blur(3px); /* Add the desired blur effect */
+    opacity: 0.7; /* Optional: Adjust the opacity to make it more visually clear */
+  }
+  /* .customOver{
+    position: relative;
+    right: -90px;
+    top: 47px;
+    bottom: 5px;
+    z-index: 100;
+  } */
